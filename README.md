@@ -23,7 +23,7 @@
   ## Usage
   If you would like to try out a live version of the website click the link below.
 
-  [Link to Deployed Website]()
+  [Link to Deployed Website](https://murmuring-falls-12222.herokuapp.com/)
 
   ![screenshot](./public/icons/screenshot.png)
 
